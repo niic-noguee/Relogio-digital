@@ -9,7 +9,8 @@
 
 body {
     height: 100vh;
-    background-image: url(background.jpg);
+    background-image: url(assets/background.jpg);
+    background-position: center;
     display: flex;
     align-items: center;
     justify-content: center;
